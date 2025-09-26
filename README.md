@@ -1,10 +1,10 @@
 # fastfetch-config
 
 ## Fastfetch конфигурация
-Я использую `fastfetch` для вывода системной информации при открытии терминала. [`Мой конфиг`](https://github.com/kabanbtw/fastfetch-config/blob/main/config.json) настроен для отображения информации об ОС, окружении GNOME и оборудовании в минималистичном стиле.
+Я использую `fastfetch` для вывода системной информации при открытии терминала. [`Мой конфиг`](https://github.com/kabanbtw/fastfetch-config/blob/main/config.json) настроен для отображения информации об ОС, окружении GNOME и оборудовании в минималистичном стиле. Я не претендую на оригинальность, на просторах сети эти конфиги встречаются часто и все +- похожи друг на друга.
 
 ### Скриншот
-![Fastfetch Output](https://media.discordapp.net/attachments/1420790405242556522/1421000538828570745/image.png?ex=68d77161&is=68d61fe1&hm=b0ef89be32064ed8f57a0235893e919106d16d77f8d469db232c3cfb056aa953&=&format=webp&quality=lossless)
+![Fastfetch Output](https://cdn.discordapp.com/attachments/1420790405242556522/1421010110301470760/Screenshot_From_2025-09-26_10-41-58_Edit.png?ex=68d77a4b&is=68d628cb&hm=acaa422800e14c2e579945befa37621404e6e0f6c2688977f60b35a7a476508d&)
 
 ### Настройка fastfetch
 1. Установите `fastfetch`:
