@@ -26,7 +26,7 @@
    - **Предупреждение**: Использование **zsh** может привести к ошибкам форматирования в `.zshrc`, которые портят внешний вид терминала. Fish более надёжен для этой задачи.
 
 ### Конфигурация
-Файл конфигурации находится в [[`fastfetch/config.jsonc`]()](https://github.com/kabanbtw/fastfetch-config/blob/main/config.json). Он включает:
+Файл конфигурации находится в [`fastfetch/config.jsonc`](https://github.com/kabanbtw/fastfetch-config/blob/main/config.json). Он включает:
 - Секции: System Information, Desktop Environment, Hardware Information.
 - Кастомные разделители и цветные заголовки.
 - Поддержку emoji для визуальной читаемости.
