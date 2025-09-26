@@ -4,7 +4,7 @@
 Я использую `fastfetch` для вывода системной информации при открытии терминала. [`Мой конфиг`](https://github.com/kabanbtw/fastfetch-config/blob/main/config.json) настроен для отображения информации об ОС, окружении и оборудовании в минималистичном стиле. Я не претендую на оригинальность, на просторах сети эти конфиги встречаются часто и все +- похожи друг на друга.
 
 ### Скриншот
-![Fastfetch Output](https://cdn.discordapp.com/attachments/1420790405242556522/1421010110301470760/Screenshot_From_2025-09-26_10-41-58_Edit.png?ex=68d77a4b&is=68d628cb&hm=acaa422800e14c2e579945befa37621404e6e0f6c2688977f60b35a7a476508d&)
+![Fastfetch Output](https://media.discordapp.net/attachments/1420800072282804227/1421053928283570259/Screenshot_From_2025-09-26_10-41-58_Edit.png?ex=68d7a31a&is=68d6519a&hm=d272b3be28bd106b5e5044125b85b31e56b17e7b2b564395e15f21672edcbc12&=&format=webp&quality=lossless)
 
 ### Настройка fastfetch
 1. Установите `fastfetch`:
