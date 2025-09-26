@@ -36,7 +36,7 @@
 ## Связь
 Если хотите обсудить проекты или предложить улучшения, пишите:
 - **Email**: epidermis_essential@proton.me
-- **Discord**: https://discord.gg/QYRXFdRS
+- **Discord**: https://discord.gg/2bFvWXRS6u
 
 ## Лицензии
 
