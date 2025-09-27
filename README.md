@@ -26,7 +26,7 @@ A custom configuration for `fastfetch`, a tool to display system information in 
          fastfetch
      end
      ```
-   - **Note**: Using **Zsh** may cause formatting issues in `.zshrc`, affecting terminal appearance. Fish is more reliable for this purpose. However, `fastfetch` output (without auto-run) works with any shell.
+   - **Note**: Adding fastfetch to ~/.zshrc may cause formatting issues, which can disrupt terminal appearance. While fastfetch output works correctly in any shell (Zsh, Bash, Fish, etc.), Fish provides a more consistent experience for automatic startup.
 
 ## Configuration
 
