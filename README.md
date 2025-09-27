@@ -1,7 +1,7 @@
 
 # Fastfetch Beauty Config
 
-A custom configuration for `fastfetch`, a tool to display system information in the terminal upon opening. [My config](https://github.com/kabanbtw/fastfetch-config/blob/main/config.jsonc) is designed to show OS, desktop environment, and hardware details in a minimalist style. This setup is not unique—similar configs are common online and share many similarities.
+A custom configuration for `fastfetch`, a tool to display system information in the terminal upon opening. [My config](https://github.com/kabanbtw/fastfetch-config/blob/main/config.json) is designed to show OS, desktop environment, and hardware details in a minimalist style. This setup is not unique—similar configs are common online and share many similarities.
 
 ## Screenshot
 ![Fastfetch Output](https://media.discordapp.net/attachments/1420800072282804227/1421053928283570259/Screenshot_From_2025-09-26_10-41-58_Edit.png?ex=68d7a31a&is=68d6519a&hm=d272b3be28bd106b5e5044125b85b31e56b17e7b2b564395e15f21672edcbc12&=&format=webp&quality=lossless)
@@ -30,7 +30,7 @@ A custom configuration for `fastfetch`, a tool to display system information in 
 
 ## Configuration
 
-The configuration file is available [here](https://github.com/kabanbtw/fastfetch-config/blob/main/config.jsonc). It includes:
+The configuration file is available [Here](https://github.com/kabanbtw/fastfetch-config/blob/main/config.json). It includes:
 - Sections: System Information, Desktop Environment, Hardware Information.
 - Custom separators and colored headers.
 - Emoji support for better visual readability.
